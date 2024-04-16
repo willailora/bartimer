@@ -18,6 +18,7 @@ bartimer は、カスタマイズ可能なタイマーとインターバルタ�
 
     タイマー時間とインターバル時間を設定します。時間(最大999)、分(最大59)、秒(最大59)を入力してください。
     タイマーとインターバルのプログレスバーの数を設定します。
+    (あまり大きな値に設定すると最小ピクセル数が1なので、ウィンドウ幅が足りないとウィンドウが横に拡大してしまいます)
     「Start」ボタンをクリックしてタイマーを開始します。
     「Stop」ボタンをクリックしてタイマーを一時停止します。
     「Resume」ボタンをクリックして一時停止したタイマーを再開します。
@@ -109,6 +110,7 @@ Usage
 
     Set the timer and interval durations. Enter hours (max 999), minutes (max 59), and seconds (max 59).
     Set the number of progress bars for the timer and interval.
+     (If set to too large a value, the minimum number of pixels is 1, so the window will expand horizontally if the window width is not large enough.)
     Click the "Start" button to begin the timer.
     Click the "Stop" button to pause the timer.
     Click the "Resume" button to resume a paused timer.
