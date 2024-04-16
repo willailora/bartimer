@@ -68,7 +68,11 @@ bartimer は、カスタマイズ可能なタイマーとインターバルタ�
 
 インストール
 
-    exe版はダウンロードしたbartimer.zipを解凍してください。必要に応じて、解凍したフォルダに有るpresets.jsonをC:\Users\ユーザーネーム\.bartimerに保存してください。フォルダは一度起動して、適当な数値で一度プリセットをsaveすれば作成されます。
+    exe版はダウンロードしたbartimer.zipを解凍してください。
+    ダウンロードは
+    https://github.com/willailora/bartimer/releases/download/Release/bartimer1.0.zip
+    か右のReleasesからダウンロードしてください。
+    必要に応じて、解凍したフォルダに有るpresets.jsonをC:\Users\ユーザーネーム\.bartimerに保存してください。フォルダは一度起動して、適当な数値で一度プリセットをsaveすれば作成されます。
 
     リポジトリをクローンまたはダウンロードします。
     必要なライブラリをインストールします: pip install PySide6
