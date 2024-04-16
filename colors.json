@@ -1,0 +1,12 @@
+{
+    "background_color": "#333333",
+    "text_color": "#ffffff",
+    "input_background_color": "#444444",
+    "input_text_color": "#ffffff",
+    "button_background_color": "#555555",
+    "button_hover_color": "#666666",
+    "progress_bar_background_color": "#444444",
+    "progress_bar_border_color": "#555555",
+    "progress_bar_chunk_color": "#996633",
+    "progress_bar_chunk_color_int": "#999900"
+}
